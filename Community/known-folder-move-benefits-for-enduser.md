@@ -41,7 +41,7 @@ Here are few things I've experienced with this feature that might help in case o
 2. KFM uses your OneDrive site as storage, meaning the user account in question have to be "Site Collection Owner" of that OneDrive site, this is normally the case but if not then KFM won't work.
 3. .PST files is not supported. This is often the case when users have limited mailbox storage on premises, normally we export the mailbox as backup and stores this in the Documents folder leading to error when activating the feature.
 4. OneNote files outside of OneDrive is not supported. This is the case if you have used OneNote locally before KFM normally the OneNote apps stores the files in the Documents folder. Move the OneNote files to OneDrive first.
-5. Beware of the 100,000 items recommended limit, if you are using KFM while synching SharePoint libraries. Performance decreases as the total numbers goes up, this limit also depends on your client device performance.  
+5. Beware of the 100,000 items recommended limit, if you are using KFM while synching SharePoint libraries. Performance decreases as the total numbers goes up, this limit also depends on your client device performance. 
 
 ---
 
